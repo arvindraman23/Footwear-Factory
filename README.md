@@ -1,2 +1,37 @@
-# Footwear-Factory
-Developed stand-alone software using Java (Netbeans) and MySQL to run a sneaker-selling forum. Emphasized a normalized database schema to efficiently access large amounts of data regarding product inventory and warehousing. Placed a structured sequence of database calls to avoid performance issues.
+
+# Authors
+
+
+Prajakta More - pbm4287@mavs.uta.edu (1001924287)       
+Arvind Raman - axr0501@mavs.uta.edu (1002050501)
+Dhanush Raj - dxr3155@mavs.uta.edu (1002073155)
+-----------
+
+# Project Title:
+
+The Footwear Factory
+
+# Project Description:
+
+In this project we have implemented a shoe reselling and retailing platform that will help customers to buy the shoes in a moderate price
+
+# Setup Required:
+
+-Java 8
+
+-Apache NetBeans 11
+
+-JDK 13
+# How to run:
+
+  - Run all the sql scripts in the specified orders
+  - Open the netbeans project and run the program
+  - Login as user or admin based on your credentials
+  - Select any item that you wish to buy from the table 
+  - Add any item that you wish to list on the website by selecting the sell option
+  - Admin can generate reports by logging in as admin
+
+
+
+
+
