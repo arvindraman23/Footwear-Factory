@@ -2,9 +2,7 @@
 # Authors
 
 
-Prajakta More   
-Arvind Raman
-Dhanush Raj 
+Prajakta More, Arvind Raman, Dhanush Raj 
 -----------
 
 # Project Title:
