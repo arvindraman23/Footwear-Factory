@@ -2,9 +2,9 @@
 # Authors
 
 
-Prajakta More - pbm4287@mavs.uta.edu (1001924287)       
-Arvind Raman - axr0501@mavs.uta.edu (1002050501)
-Dhanush Raj - dxr3155@mavs.uta.edu (1002073155)
+Prajakta More   
+Arvind Raman
+Dhanush Raj 
 -----------
 
 # Project Title:
